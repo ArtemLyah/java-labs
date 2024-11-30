@@ -1,6 +1,5 @@
 ### Laboratory works by student Liakh Artemii IS-21
 ### Variant 18
-#### Run the project
 
 #### Clone the project
 ```
