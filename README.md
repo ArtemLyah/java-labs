@@ -8,7 +8,7 @@ git clone https://github.com/ArtemLyah/java-labs
 ```
 #### Checkout to a certain lab branch
 ```
-git checkout lab1
+git checkout lab4
 ```
 #### Build the project
 ```
